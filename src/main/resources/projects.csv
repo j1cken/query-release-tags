@@ -1,0 +1,4 @@
+quarkus, github, rel, quarkusio, quarkus
+wildfly, github, rel, wildfly, wildfly
+ispn, github, tag, infinispan, infinispan
+ispn-images, github, tag, infinispan, infinispan-images
